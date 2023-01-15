@@ -1,5 +1,5 @@
 # Proyecto Desempeño Académico
-El presente proyecto buscó dar cuenta de una propuesta de investigación para el curso Fundamento en Ciencias de Datos contenido en el programa; Diploma en Ciencia de Datos Avanzados, Universidad de Concepción,2019).
+El presente proyecto buscó dar cuenta de una propuesta de investigación para el curso Analítica de Datos contenido en el programa; Diploma en Ciencia de Datos Avanzados, Universidad de Concepción,2019).
 
 El objetivo del estudio es identificar los principales predictores (variables) de éxito y riesgo académico que mejor se ajustan y explican la predicción de la deserción académica dada una preclasificación del estudiantado. 
 
@@ -18,4 +18,4 @@ En resumen, se clasifica estudiantado de acuerdo a la restricción predeterminad
 
 Este trabajo fue realizado junto a Edgardo Cabrera, utilizando el lenguaje de programación Python.
 
-NOTA: EL DATASET NO ESTÁ DISPONIBLE DEBIDO A LA SENSIBILIDAD DE SU CONTENIDO.
+NOTA: EL DATASET Y CODIGO NO ESTÁ DISPONIBLE DEBIDO A LA SENSIBILIDAD DE SU CONTENIDO.
